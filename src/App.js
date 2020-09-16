@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from 'antd';
-import './App.css';
+import './App.less';
 
 const App = () => (
     <div className="App">
@@ -11,7 +11,7 @@ const App = () => (
 export default App;
 // import React from 'react';
 // import logo from './logo.svg';
-// import './App.css';
+// import './App.less';
 //
 // function App() {
 //   return (
