@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+/**
+ * 程序入口
+ */
 ReactDOM.render(
   <React.StrictMode>
     <App />

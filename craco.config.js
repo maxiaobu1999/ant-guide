@@ -3,7 +3,7 @@ const CracoLessPlugin = require('craco-less');
 module.exports = {
     plugins: [
         {
-            plugin: CracoLessPlugin,
+            plugin: CracoLessPlugin,// 自定义主题
             options: {
                 lessLoaderOptions: {
                     lessOptions: {
